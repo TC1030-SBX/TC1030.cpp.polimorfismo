@@ -1,0 +1,6 @@
+{
+	"extensions": [
+		"vadimcn.vscode-lldb",
+		"ms-vscode.cpptools"
+	]
+}
